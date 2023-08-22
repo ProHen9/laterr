@@ -31,3 +31,7 @@ dist/
 
 # typescript
 .tsbuildinfo
+
+# dumme dateien
+.gitignore
+pnpm-lock.yaml
